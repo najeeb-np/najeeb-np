@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @najeeb-np
+- 👋 Hi, I’m @Muhammad Najeeb
 - 👀 I’m interested in c#, Xamarin and .NET Maui
 - 🌱 I’m currently learning Maui
 - 💞️ 
