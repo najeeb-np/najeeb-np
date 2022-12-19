@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammad Najeeb
 - 👀 I’m interested in c#, Xamarin and .NET Maui
-- 🌱 I’m currently learning Maui
+- 🌱 I’m currently doing projects in c#. Working at MOH Oman
 - 💞️ 
 - 📫[linkedin.com/in/muhammad-najeeb-moh](https://www.linkedin.com/in/muhammad-najeeb-moh/)
 
